@@ -1,1 +1,1 @@
- ## Internal-Hackathon
+ ## Internal Hackathon
